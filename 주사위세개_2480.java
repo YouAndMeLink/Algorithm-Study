@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ¡÷ªÁ¿ßºº∞≥_2480 {
+public class √Å√ñ≈•√ß≈î¬ß≈∫≈∫¬∞≈Ç_2480 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -17,4 +17,4 @@ public class ¡÷ªÁ¿ßºº∞≥_2480 {
         else
             System.out.print((Math.max(Math.max(a, b), c)*100));
     }
-}
+} 
