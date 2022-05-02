@@ -1,25 +1,26 @@
 # Algorithm-Study
-import java.util.Scanner;
- 
+import java.util.*;
 public class Main {
+
 	public static void main(String[] args) {
-    
-		Scanner in = new Scanner(System.in);
+		int h;		
+		int m;	
+		Scanner scan = new Scanner(System.in);
+		h = scan.nextInt();
+		m = scan.nextInt();
 		
-		int H = in.nextInt(); // 시
-		int M = in.nextInt(); // 분
-		in.close();
+		int H = h;
+		int M;
+		if((m-45) < 0) {
+			--H;
+			M = (m + 60) - 45;
+		} else {
+			M = m - 45;
+		}
 		
-		if(M < 45) {
-			H--;		// 시(hour) 1 감소
-			M= 60 - (45 - M); 	// 분(min) 감소
-			if(H < 0) {
-				H = 23;
-			}
-			System.out.println(H + " " + M);
-		}
-		else {
-			System.out.println(H + " " + (M - 45));
-		}
+		System.out.println(H + " " + M);
+		
+
 	}
+
 }
