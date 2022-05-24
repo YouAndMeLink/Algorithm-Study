@@ -24,16 +24,16 @@
 
 <table>
   <tr> 
-    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/BG><img src="https://avatars.githubusercontent.com/u/86152185?v=4" width="100px;" alt=""/><br /><sub><b>Ha Youngsu</b></sub></a><br />
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/BG><img src="https://avatars.githubusercontent.com/u/86152185?v=4" width="100px;" alt=""/><br /><sub><b>강병관</b></sub></a><br />
     </td>
-    <td align="center"><a href=https://github.com/ooyniz><img src="https://user-images.githubusercontent.com/83005178/166416247-3908c2e9-ed1c-4e44-aa6a-68f3db0f45db.png" width="100px;" alt=""/><br /><sub><b>Kwak Yujin</b></sub></a><br />
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/DH><img src="https://avatars.githubusercontent.com/u/74331917?v=4" width="100px;" alt=""/><br /><sub><b>김다현</b></sub></a><br />
     </td>
-    <td align="center"><a href=https://github.com/baegjhoon><img src="https://user-images.githubusercontent.com/102000749/165739357-9ea66cf1-8a6e-4b9a-bf77-0a8c9e1a465a.png" width="100px;" alt=""/><br /><sub><b>Baeg Junghun</b></sub></a><br />
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/KY><img src="https://avatars.githubusercontent.com/u/103173521?v=4" width="100px;" alt=""/><br /><sub><b>문기용</b></sub></a><br />
     </td>
-    <td align="center"><a href=https://github.com/sila0319><img src="https://user-images.githubusercontent.com/102000749/165739259-24741b3b-92d2-49df-8496-7dab8f58bd97.png" width="100px;" alt=""/><br /><sub><b>Ryu wonkyu</b></sub></a><br />
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/SM><img src="https://avatars.githubusercontent.com/u/103156290?v=4" width="100px;" alt=""/><br /><sub><b>진솔미</b></sub></a><br />
     </td>
         </td>
-    <td align="center"><a href=https://github.com/sila0319><img src="https://user-images.githubusercontent.com/102000749/165739259-24741b3b-92d2-49df-8496-7dab8f58bd97.png" width="100px;" alt=""/><br /><sub><b>Ryu wonkyu</b></sub></a><br />
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/WJ><img src="https://avatars.githubusercontent.com/u/103166677?v=4" width="100px;" alt=""/><br /><sub><b>이원진</b></sub></a><br />
     </td>
   </tr>
 </table>
