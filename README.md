@@ -1,53 +1,39 @@
-# Algorithm-Study
-## 문제
+# 알고리즘 스터디 📚
 
-한수는 지금 (x, y)에 있다. 직사각형은 각 변이 좌표축에 평행하고, 왼쪽 아래 꼭짓점은 (0, 0), 오른쪽 위 꼭짓점은 (w, h)에 있다. 직사각형의 경계선까지 가는 거리의 최솟값을 구하는 프로그램을 작성하시오.
+## 1. 개요
 
-## 입력
+- 9조의 알고리즘 스터디는 백준 사이트의 알고리즘 문제를 풀고 코드를 공유하고 리뷰하는 스터디입니다👍🏻
+- 활동은 돌아가며 문제를 선정하고 지정한 기간 내에 풀이 후 대면 스터디를 통해 서로의 코드를 공유하며 "아~~이런 개발지식, 주의사항도 있구나~"라는 것을 느끼고 알아갈 예정입니다.
+- 스터디 후에는 학습 일지를 작성하여 코드와 학습 일지를 github에 업로드하는 방식으로 진행하려합니다.
+- 스터디를 통해 같이 성장해봐요🔥
 
-첫째 줄에 x, y, w, h가 주어진다.
+## 2. 운영 방식
 
-- 강병관
+1. 스터디 repository를 생성.
+2. 팀원 별로 branch를 생성.
+3. 돌아가며 알고리즘 문제 선정.
+4. 정해진 기간까지 문제 풀이를 완료.
+5. 대면 스터디 진행를 진행.
+   - 개인 알고리즘 풀이 해설 및 코드 리뷰를 통한 질의 응답.
+   - 문제 풀이를 못 한 팀원 발생 시 이해 할 수 있도록 스터디 후 재풀이 도전!
+6. 개인 branch에 코드 업로드, main 브랜치에 학습 일지 업로드.
+7. 추가 질문이 있으면 Git PR을 통해 질문하고 Comment를 통해 응답!
+8. 파일 업로드 시 제목은 문제영문제목*문제넘버 or 문제한글제목*문제넘버으로 통일.
 
-| 정답여부 | O |
-| --- | --- |
-| 난이도 | 중 |
-| 문제 풀이 후기 | 특정 지점에서 최단거리를 구한다고 이해하니 어렵진 않았다. |
-| 소스코드(github url) | https://github.com/YouAndMeLink/Algorithm-Study/blob/BG/직사각형에서의탈출_1085.java |
-| 코드 비교 | 다른 사람 코드보고 배운점이나 좀 더 유용하다고 느낀 거 작성 |
-- 김다현
+## 3. 개인 브랜치
 
-| 정답여부 | O |
-| --- | --- |
-| 난이도 | 중 |
-| 문제 풀이 후기 | 사각형을 그려서 문제를 대입해보니 쉽게 풀렸다. |
-| 소스코드(github url) |  |
-| 코드 비교 | 같은 문제인데 팀원들이 접근한 방식이 달라서  |
-|  |  |
-- 문기용
-
-| 정답여부 | O |
-| --- | --- |
-| 난이도 | 중 |
-| 문제 풀이 후기 | 직각사각형을 그려보고 좌표를 찍어보면서 푸니 문제는 어렵지는 않았습니다. |
-| 소스코드(github url) | https://github.com/YouAndMeLink/Algorithm-Study/blob/KY/Alg_1085 |
-| 코드 비교 |  |
-
-[](https://github.com/YouAndMeLink/Algorithm-Study/blob/KY/Alg_1085)
-
-- 이원진
-
-| 정답여부 | O |  |
-| --- | --- | --- |
-| 난이도 | 하 |  |
-| 문제 풀이 후기 | 문제를 이해하면 쉬운문제ㅎㅎ |  |
-| 소스코드(github url) |  |  |
-| 코드 비교 | 내가 제일 간결하게 잘 짠 것 같다. |  |
-- 진솔미
-
-| 정답여부 | O |
-| --- | --- |
-| 난이도 | 중 |
-| 문제 풀이 후기 | 처음엔 문제 이해가 좀 어려웠지만 그림을 그려서 알고리즘을 생각해보니 풀렸다.  |
-| 소스코드(github url) | https://github.com/YouAndMeLink/Algorithm-Study/blob/SM/RectangularEscape_1085.java |
-| 코드 비교 | 병관이가 주석을 잘 적어 나서 보기 편했다. 나도 주석을 작성하는 버릇을 들여야겠다. |
+<table>
+  <tr> 
+    <td align="center"><a href=https://github.com/Hannah0su><img src="https://user-images.githubusercontent.com/102000749/165738552-60e1eac0-3c50-4568-ae38-767c44b3b018.jpg" width="100px;" alt=""/><br /><sub><b>Ha Youngsu</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/ooyniz><img src="https://user-images.githubusercontent.com/83005178/166416247-3908c2e9-ed1c-4e44-aa6a-68f3db0f45db.png" width="100px;" alt=""/><br /><sub><b>Kwak Yujin</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/baegjhoon><img src="https://user-images.githubusercontent.com/102000749/165739357-9ea66cf1-8a6e-4b9a-bf77-0a8c9e1a465a.png" width="100px;" alt=""/><br /><sub><b>Baeg Junghun</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/sila0319><img src="https://user-images.githubusercontent.com/102000749/165739259-24741b3b-92d2-49df-8496-7dab8f58bd97.png" width="100px;" alt=""/><br /><sub><b>Ryu wonkyu</b></sub></a><br />
+    </td>
+        </td>
+    <td align="center"><a href=https://github.com/sila0319><img src="https://user-images.githubusercontent.com/102000749/165739259-24741b3b-92d2-49df-8496-7dab8f58bd97.png" width="100px;" alt=""/><br /><sub><b>Ryu wonkyu</b></sub></a><br />
+    </td>
+  </tr>
+</table>
