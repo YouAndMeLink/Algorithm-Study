@@ -1,0 +1,21 @@
+package Day1;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+public class 이상한곱셈1225 {
+	public static void main(String[] args) throws Exception {
+		long result = 0;
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		String [] str = br.readLine().split(" ");
+		String [] n = str[0].split("");
+		String [] m = str[1].split("");
+		
+		for(int i = 0; i < n.length; i++) {
+			for(int j = 0; j < m.length; j++) {
+				result += Long.parseLong(n[i]) * Long.parseLong(m[j]);
+			}
+		}
+		System.out.println(result);
+	}
+}
