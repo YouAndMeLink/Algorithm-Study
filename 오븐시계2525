@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int h = sc.nextInt();
+		int m = sc.nextInt();
+		int n = sc.nextInt();
+		
+		int high=(m+n)/60;
+		int rest=(m+n)%60;
+		if(h<23 && m+n < 60) {
+			System.out.println(h + " " +(m+n) );
+		}else if(h+high<23 && m+n>=60) {
+			System.out.println((h+high) + " " + rest);
+		}else if(h>=23 && m+n>=60) {
+			System.out.println(high-1+ " " + rest);
+		}else if(h>=23 && m+n<60){
+			System.out.println(h + " " + (m+n));
+		}else if(h+high>=24) {
+			System.out.println((h+high-24)+ " " + rest);
+		}
+
+	}
+}
